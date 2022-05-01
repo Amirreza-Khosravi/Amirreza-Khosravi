@@ -28,6 +28,7 @@ mobile developer
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 
@@ -39,14 +40,10 @@ mobile developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://github-readme-stats.vercel.app/api?username=Amirreza-Khosravi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amirreza-Khosravi's GitHub stats" /></a>
+<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://github-readme-stats.vercel.app/api?username=Amirreza-Khosravi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="Amirreza-Khosravi's GitHub stats" /></a>
 
-<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirreza-Khosravi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirreza-Khosravi&stroke=facc15&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=facc15&currStreakLabel=6366f1&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://activity-graph.herokuapp.com/graph?username=Amirreza-Khosravi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Amirreza-Khosravi"><img src="https://activity-graph.herokuapp.com/graph?username=Amirreza-Khosravi&bg_color=0f172a&color=facc15&line=ef4444&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Amirreza-Khosravi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza-Khosravi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Amirreza-Khosravi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza-Khosravi&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
